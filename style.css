@@ -1,0 +1,59 @@
+body{
+	text-align: center;
+	}
+	#heading{
+		font-size: 30px;
+		font-family: 'Courier New', Courier, monospace;
+		font-weight: bolder;
+		border-color: yellow;
+		border-style: double ;
+	border-radius: 3px;
+	background-color: tomato;
+	}
+	#search{
+		font-size: medium;
+		font-weight: bolder;
+		font-size: 20px;
+	}
+	#button_s{
+		font-family: 'Courier New', Courier, monospace;
+		font-weight: bolder;
+		border-color: turquoise;
+		font-size:20px;
+		width:40px;
+		height: 30px;
+	}
+	#name{
+		height: max-content;
+		font-weight: bolder;
+		color: teal;
+		font-family:'Courier New', Courier, monospace;
+	}
+	#enter{
+		font-size: 15px;
+	font-weight: bolder;
+	}
+	#e_name{
+		font-family: 'Courier New', Courier, monospace;
+		font-weight: bolder;
+		border-color: turquoise; 
+	}
+	#label{
+		font-size: 20px;
+		font-family: 'Courier New', Courier, monospace;
+		font-weight: bolder;
+		border-color: yellow;
+		border-style: double ;
+	border-radius: 3px;
+	background-color: tomato; 
+	}
+	#show{
+		background-color: transparent;
+		border-width: 3px;
+		font-size:15px;
+		font-weight:bolder ;
+	}
+	.look:hover{
+		color:dodgerblue;
+	}
+	
